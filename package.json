@@ -1,9 +1,9 @@
 {
+  "homepage": "https://vishwakarmasuraj333.github.io/react-project",
   "name": "my-react-app",
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://vishwakarmasuraj333.github.io/react-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
